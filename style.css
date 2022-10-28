@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+h1{
+    background-color: rgb(197, 128, 0);
+font-family: 'Silkscreen', serif;
+}
+body{
+    background-color: orange;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+h3{
+    font-family: 'Silkscreen', serif;
+    color: purple;
+}
+
+
+#contenedor {
+
+     width: 750px;
+     height: 350px;
+     position: absolute;
+     inset: 0;
+     margin: auto;
+     text-align: center;
+}
+
+input {
+
+    margin: auto;
+    margin-bottom: 10px;
+    background-color: rgb(255, 226, 173);
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+#texto{
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    
+}
+
+#inicio {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.highlight {
+    background-color: yellow;
+ }
+
+ .error {
+    background-color: lightcoral;
+    border-color: red;
+ }
